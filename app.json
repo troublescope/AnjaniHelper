@@ -1,0 +1,19 @@
+{
+    "name": "AnjaniHelper",
+    "description": "Deploy Anjani on heroku",
+    "repository": "https://github.com/userbotindo/Anjani.git",
+    "keywords": [
+        "Anjani",
+        "Deployer",
+        "container",
+        "repo"
+    ],
+    "env": {
+        "BY": {
+            "description": "Userbotindo Team",
+            "value": "@troublescope",
+            "required": false
+        }
+    },
+    "stack": "container"
+}
